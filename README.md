@@ -1,5 +1,7 @@
 ## Greetings 👋
 
+### Personal projects are being moved to: https://gitlab.com/ivanleoncz
+
 I work as Independent Contractor for companies abroad and sometimes here in Mexico as well, developing from Backend Services (Monolithic or Microservices) to Data Engineering projects (I love SQL).
 
 This is the stack which I generally I have been working for the last few years:
