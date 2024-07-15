@@ -6,7 +6,8 @@ I work as Independent Contractor for companies abroad and sometimes here in Mexi
 
 This is the stack that I've been working for the last few years: Python, Django, Flask, SQL, AWS, Docker, GNU/Linux, Shellscripting.
 I also worked with other stuff, from Software Development to Infrastructure Services: C, Node, Java for Android, Bootstrap, ZABBIX, HA Proxy, Nginx.
-You might see me doing something with other languages like C++, Go, Java, JS.
+
+You might see some small project here and there, related with C++, Go, Java, Node.
 
 If you have:
 - a project that has components written in any of these languages, I'd be happy to learn more about it.
