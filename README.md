@@ -1,9 +1,7 @@
-Greetings 👋
+Independent Contractor, working for companies abroad and sometimes here in Mexico, developing Backend Services (Monolithic or Microservices) and contributing with Data Engineering projects.
 
-I work as Independent Contractor for companies abroad and sometimes here in Mexico as well, developing Backend Services (Monolithic or Microservices), also contributing with Data Engineering projects.
-
-This is the stack that I've been working for the last few years: Python, Django, Flask, SQL, AWS, Apache Airflow, Docker, GNU/Linux, Shellscripting.
-From Development to Infrastructure, I also worked with: Node, C++, Java, GCP, ZABBIX, HA Proxy, Nginx.
+Frequently working with the following stack of services: Python, Django, Flask, SQL, Postgresql, AWS, Apache Airflow.
+Eventually contributing with systems built with Node.js, C++ and Java. When needed, supporting on configuration of network services like HA Proxy, Nginx and monitoring tools like Zabbix.
 
 If you have projects related with Climate Change, Sustaintability and Social Impact, I'd be happy to contribute, even as voluntary.
 
