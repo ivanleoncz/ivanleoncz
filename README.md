@@ -7,7 +7,7 @@ From Development to Infrastructure, I also worked with: Node, C++, Java, GCP, ZA
 
 If you have projects related with Climate Change, Sustaintability and Social Impact, I'd be happy to contribute, even as voluntary.
 
-> Personal are being moved to: https://gitlab.com/ivanleoncz
+> Personal projects are being moved to: https://gitlab.com/ivanleoncz
 
 Regards,
 ivanlmj at gmail dot com
